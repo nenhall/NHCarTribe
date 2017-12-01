@@ -1,0 +1,17 @@
+//
+//  NHCarTribe-PrefixHeader.pch
+//  NHCarTribe
+//
+//  Created by simope on 16/7/13.
+//  Copyright © 2016年 NegHao.W. All rights reserved.
+//
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "NHMacroDefineHeader.h"
+#import "NHConfigHeader.h"
+#import "NHQuickCreate.h"
+#import "UIView+NHExtension.h"
+
+#endif /* NHCarTribe_PrefixHeader_pch */
